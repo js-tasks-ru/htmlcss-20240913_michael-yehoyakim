@@ -1,0 +1,39 @@
+.header {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.nav  {
+    background-color: orange;
+    padding: 10px;
+}
+
+.nav a {
+    color: white;
+}
+
+.main {
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+
+.article {
+    h2{
+        margin-top: 5px;
+    }
+    ul,ol{
+        margin: 2px;
+    }
+    margin: 2px;
+    padding: 10px;
+    background-color: blue;
+}
+
+.footer h1 {
+    background-color: purple;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
